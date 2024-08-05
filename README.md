@@ -5,4 +5,4 @@ In this repository, you will find:
 
 Task 1 - Create and Deploy a Landing Page
 
-Project : 
+     • Project : Tech Conference 2024 Landing Page
