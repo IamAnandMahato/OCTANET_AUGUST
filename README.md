@@ -6,3 +6,7 @@ In this repository, you will find:
 Task 1 - Create and Deploy a Landing Page
 
      • Project : Tech Conference 2024 Landing Page
+
+Task 2 - Create and Deploy a To-Do List Page
+
+     • Project : To-Do List Web App
